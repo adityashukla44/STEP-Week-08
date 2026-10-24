@@ -66,6 +66,21 @@ java FileName
 
 Replace `FileName` with the program name. Programs marked **Interactive** read input from the terminal; the rest run a built-in example straight away. Each file is self-contained, so you can also open it in VS Code or IntelliJ and press **Run**.
 
+## All STEP weeks
+
+| Week | Topic |
+|------|-------|
+| [Week 1](https://github.com/adityashukla44/STEP-Week-01) | Java Basics: Strings, Loops and Arrays |
+| [Week 2](https://github.com/adityashukla44/STEP-Week-02) | String Processing and Validation |
+| [Week 3](https://github.com/adityashukla44/STEP-Week-03) | Classes, Objects and Constructors |
+| [Week 4](https://github.com/adityashukla44/STEP-Week-04) | Array Algorithms |
+| [Week 5](https://github.com/adityashukla44/STEP-Week-05) | Arrays and Methods |
+| [Week 6](https://github.com/adityashukla44/STEP-Week-06) | Object-Oriented Programming Revision |
+| [Week 7](https://github.com/adityashukla44/STEP-Week-07) | Encapsulation |
+| **Week 8** | **Inheritance and Polymorphism** (this repo) |
+| [Week 9](https://github.com/adityashukla44/STEP-Week-09) | Abstraction and Interfaces |
+| [Week 10](https://github.com/adityashukla44/STEP-Week-10) | Coding Practice Set |
+
 ## Author
 
 **Aditya Shukla** · [@adityashukla44](https://github.com/adityashukla44)
